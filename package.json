@@ -1,7 +1,7 @@
 {
-  "name": "groupbtw-test-task",
+  "name": "groupbwt-test-task",
   "version": "1.0.0",
-  "description": "groupbtw-test-task",
+  "description": "groupbwt-test-task",
   "main": "app.js",
   "scripts": {
     "lint": "./node_modules/.bin/eslint --fix src/**/*.js test/**/*.js",

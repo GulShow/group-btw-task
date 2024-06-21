@@ -10,7 +10,7 @@ describe('FileReader tests', () => {
     const content = await FileReader.read('./package.json');
     assert.strictEqual(
       JSON.parse(content).name,
-      'groupbtw-test-task',
+      'groupbwt-test-task',
     );
   });
 });
